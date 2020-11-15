@@ -1,0 +1,41 @@
+body{
+    background: rgb(69, 75, 83);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+div#lista{
+    padding-top: 25px;
+    text-align: center;
+}
+select#flista{
+    width: 150px;
+}
+div#finalizar{
+    text-align: center;
+}
+div#res{
+    text-align: center;
+}
+input#botaofinalizar{
+    width: 150px;
+    border-radius: 5px;
+}
